@@ -1,0 +1,124 @@
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.m1 {
+  float: right;
+}
+
+div {
+  float: left;
+  padding: 4px 100px;
+}
+
+ .m1 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 70px;
+  text-decoration: none;
+}
+
+.m1 a:hover {
+  background-color:#9B9B9B;
+}
+
+h1{
+  color: #0083FF;
+  font-family: Calibri;
+  font-size: 60px;
+  text-align: center;
+}
+
+.imagen {
+  width: 500px; 
+  height: 250px;
+  display:block;
+  margin:auto;
+}
+
+.left {
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-left: 10px;
+  float: left;
+  width: 40%;
+}
+
+.right {
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-left: 10px;
+  float: right;
+}
+
+table{
+  align-items: left;
+  width: 600px;
+	height: 200px;
+}
+
+th {
+  font-size: 30px;
+  text-align: justify;
+  font-family: Arial;
+}
+
+td {
+  font-size: 20px;
+  text-align: justify;
+  font-family: Arial;
+  line-height : 35px;
+}
+
+.medios{
+  list-style-type: square;
+  overflow: hidden;
+  background-color: #4AFFE1;
+}
+
+.pmed {
+  font-size: 30px;
+  text-align: justify;
+  font-family: Helvetica;
+  line-height : 35px;
+}
+
+.med {
+  font-size: 20px;
+  text-align: justify;
+  font-family: Courier;
+  line-height : 35px;
+}
+  
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+}
+
+.pf {
+  text-align: center;
+  font-family: Arial;
+}
+
+.logoa {
+  margin-left: 0%;
+  float: left;
+  padding: 4px 100px;
+
+}
+
+.redes {
+  width:48px;
+			position:fixed;
+			top:50px;
+			right:0;
+}
